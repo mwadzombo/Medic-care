@@ -134,6 +134,10 @@ h3 {
 .quate {
   width: 40%;
   margin: 0 auto;
+  padding: 2em 0;
+}
+.try{
+margin:2em 0 2em;
 }
 .name {
   color: #496bf2;
@@ -151,7 +155,7 @@ h3 {
 }
 .circle-green {
   background-color: #2dd6c1;
-};
+}
 .circles {
   width: fit-content;
   margin: 0 auto;
@@ -196,7 +200,7 @@ form {
   background-position: center center;
   height: 80vh;
 }
-.btn-blue{
+.btn-blue {
   margin: 0 1em;
   cursor: pointer;
 }
@@ -204,8 +208,8 @@ form {
 .peter {
   margin: 2em;
 }
-.dop{
-  margin:0em 2em 0em;
+.dop {
+  margin: 0em 2em 0em;
 }
 .footer-section {
   float: left;
